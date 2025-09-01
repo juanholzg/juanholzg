@@ -1,16 +1,17 @@
-## Hi there 👋
+# Juan Holz
 
-<!--
-**juanholzg/juanholzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
+<br />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanholzg&show_icons=true&theme=radical) -->
+
